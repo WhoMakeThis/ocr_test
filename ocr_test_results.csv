@@ -1,0 +1,65 @@
+Image,OCR Result,Ground Truth,Success,grayscale,blur,threshold
+captcha_sample1.png,m7j68,captcha,False,True,True,True
+captcha_sample1.png,m7j68,captcha,False,True,True,False
+captcha_sample1.png,[EMPTY],captcha,False,True,False,True
+captcha_sample1.png,-m7j68-,captcha,False,True,False,False
+captcha_sample1.png,m7j68,captcha,False,False,True,True
+captcha_sample1.png,m7j68,captcha,False,False,True,False
+captcha_sample1.png,[EMPTY],captcha,False,False,False,True
+captcha_sample1.png,-m7j68-,captcha,False,False,False,False
+KakaoTalk_20250326_175749639 (1).png,poe ad,kakaotalk,False,True,True,True
+KakaoTalk_20250326_175749639 (1).png,poe ao,kakaotalk,False,True,True,False
+KakaoTalk_20250326_175749639 (1).png,poe ad,kakaotalk,False,True,False,True
+KakaoTalk_20250326_175749639 (1).png,poe ap,kakaotalk,False,True,False,False
+KakaoTalk_20250326_175749639 (1).png,poe ad,kakaotalk,False,False,True,True
+KakaoTalk_20250326_175749639 (1).png,poe ao,kakaotalk,False,False,True,False
+KakaoTalk_20250326_175749639 (1).png,poe ad,kakaotalk,False,False,False,True
+KakaoTalk_20250326_175749639 (1).png,poe ad,kakaotalk,False,False,False,False
+KakaoTalk_20250326_175749639.png,poe ad,kakaotalk,False,True,True,True
+KakaoTalk_20250326_175749639.png,poe ao,kakaotalk,False,True,True,False
+KakaoTalk_20250326_175749639.png,poe ad,kakaotalk,False,True,False,True
+KakaoTalk_20250326_175749639.png,poe ap,kakaotalk,False,True,False,False
+KakaoTalk_20250326_175749639.png,poe ad,kakaotalk,False,False,True,True
+KakaoTalk_20250326_175749639.png,poe ao,kakaotalk,False,False,True,False
+KakaoTalk_20250326_175749639.png,poe ad,kakaotalk,False,False,False,True
+KakaoTalk_20250326_175749639.png,poe ad,kakaotalk,False,False,False,False
+KakaoTalk_20250326_175749639_01 (1).png,qv puy,kakaotalk,False,True,True,True
+KakaoTalk_20250326_175749639_01 (1).png,av pu?,kakaotalk,False,True,True,False
+KakaoTalk_20250326_175749639_01 (1).png,qv pus.,kakaotalk,False,True,False,True
+KakaoTalk_20250326_175749639_01 (1).png,av pus,kakaotalk,False,True,False,False
+KakaoTalk_20250326_175749639_01 (1).png,qv puy,kakaotalk,False,False,True,True
+KakaoTalk_20250326_175749639_01 (1).png,bv pus,kakaotalk,False,False,True,False
+KakaoTalk_20250326_175749639_01 (1).png,qv pus.,kakaotalk,False,False,False,True
+KakaoTalk_20250326_175749639_01 (1).png,bv pud.,kakaotalk,False,False,False,False
+KakaoTalk_20250326_175749639_01.png,qv puy,kakaotalk,False,True,True,True
+KakaoTalk_20250326_175749639_01.png,av pu?,kakaotalk,False,True,True,False
+KakaoTalk_20250326_175749639_01.png,qv pus.,kakaotalk,False,True,False,True
+KakaoTalk_20250326_175749639_01.png,av pus,kakaotalk,False,True,False,False
+KakaoTalk_20250326_175749639_01.png,qv puy,kakaotalk,False,False,True,True
+KakaoTalk_20250326_175749639_01.png,bv pus,kakaotalk,False,False,True,False
+KakaoTalk_20250326_175749639_01.png,qv pus.,kakaotalk,False,False,False,True
+KakaoTalk_20250326_175749639_01.png,bv pud.,kakaotalk,False,False,False,False
+KakaoTalk_20250326_175749639_02 (1).png,l225,kakaotalk,False,True,True,True
+KakaoTalk_20250326_175749639_02 (1).png,lip25,kakaotalk,False,True,True,False
+KakaoTalk_20250326_175749639_02 (1).png,l£q25,kakaotalk,False,True,False,True
+KakaoTalk_20250326_175749639_02 (1).png,l925,kakaotalk,False,True,False,False
+KakaoTalk_20250326_175749639_02 (1).png,l225,kakaotalk,False,False,True,True
+KakaoTalk_20250326_175749639_02 (1).png,lig25,kakaotalk,False,False,True,False
+KakaoTalk_20250326_175749639_02 (1).png,l£q25,kakaotalk,False,False,False,True
+KakaoTalk_20250326_175749639_02 (1).png,l p25,kakaotalk,False,False,False,False
+KakaoTalk_20250326_175749639_02.png,l225,kakaotalk,False,True,True,True
+KakaoTalk_20250326_175749639_02.png,lip25,kakaotalk,False,True,True,False
+KakaoTalk_20250326_175749639_02.png,l£q25,kakaotalk,False,True,False,True
+KakaoTalk_20250326_175749639_02.png,l925,kakaotalk,False,True,False,False
+KakaoTalk_20250326_175749639_02.png,l225,kakaotalk,False,False,True,True
+KakaoTalk_20250326_175749639_02.png,lig25,kakaotalk,False,False,True,False
+KakaoTalk_20250326_175749639_02.png,l£q25,kakaotalk,False,False,False,True
+KakaoTalk_20250326_175749639_02.png,l p25,kakaotalk,False,False,False,False
+processed_captcha_sample1.png,m/7j68,processed,False,True,True,True
+processed_captcha_sample1.png,m7j68,processed,False,True,True,False
+processed_captcha_sample1.png,[EMPTY],processed,False,True,False,True
+processed_captcha_sample1.png,[EMPTY],processed,False,True,False,False
+processed_captcha_sample1.png,m/7j68,processed,False,False,True,True
+processed_captcha_sample1.png,m7j68,processed,False,False,True,False
+processed_captcha_sample1.png,[EMPTY],processed,False,False,False,True
+processed_captcha_sample1.png,[EMPTY],processed,False,False,False,False

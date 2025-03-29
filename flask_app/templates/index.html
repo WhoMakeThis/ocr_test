@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CAPTCHA OCR</title>
+</head>
+<body>
+    <h1>CAPTCHA 이미지 업로드</h1>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="captcha_image" required><br><br>
+
+        <input type="checkbox" name="not_robot" id="not_robot" required>
+        <label for="not_robot">나는 로봇이 아닙니다.</label><br><br>
+
+        <button type="submit" id="submit-btn">업로드 및 해석</button>
+    </form>
+
+    {% if result %}
+        <h2>OCR 결과:</h2>
+        <p>{{ result }}</p>
+    {% endif %}
+</body>
+</html>

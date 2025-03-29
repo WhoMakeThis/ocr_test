@@ -1,0 +1,3 @@
+Image,OCR Result,Ground Truth,Success,Timestamp,Similarity (%),Partial Match
+captcha_sample1.png,M7J68,M7J68,True,2025-03-30 00:44:12,100.0,True
+captcha_sample1.png,M7J68,M7J68,True,2025-03-30 00:50:22,100.0,True
